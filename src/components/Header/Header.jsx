@@ -16,6 +16,13 @@ const Header = () => (
     <Div1>
       <a href="/">
         <a style={{ display: "flex", alignItems: "center", color: "white" }}>
+          <img
+            src="/favicon.ico"
+            style={{
+              height: "25px",
+              marginRight: "10px",
+            }}
+          />{" "}
           <span>Nithesh Anand</span>
         </a>
       </a>
