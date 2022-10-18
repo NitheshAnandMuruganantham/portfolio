@@ -9,7 +9,7 @@ import { Box, Boxes, BoxNum, BoxText } from "./AcomplishmentsStyles";
 
 const data = [
   { number: 20, text: "Awards from " },
-  { number: 10, text: "production projects" },
+  { number: 5, text: "production projects" },
   { number: 2, text: "sass apps" },
   { number: 3, text: "years of experiance" },
 ];
