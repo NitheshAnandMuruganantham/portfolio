@@ -1,14 +1,26 @@
 export const projects = [
   {
+    title: "Easy CMMS",
+    description:
+      "we build a maintanance management system for suguna feeds and deployed in coimbatore unit With help of nestjs, react with typescript, vite and scss we build this app and was more than the client expectations.",
+    image: "/images/1.png",
+    tags: ["React","nest.js","postgres", "Typescript", "Node", "react native", "AWS"],
+    source: "/",
+    open: false,
+    visit: "/",
+    id: 0,
+  },
+  
+  {
     title: "Sugantham Creations",
     description:
-      "we build this app to showcase the garment export company in tirupur,,Tamil Nadu,India. With help of react with typescript, vite and scss we build this app and was more than the client expectations.",
+      "we build this app to showcase the garment export company in tirupur,Tamil Nadu,India. With help of react with typescript, vite and scss we build this app and was more than the client expectations.",
     image: "/images/1.png",
     tags: ["React", "JavaScript", "Node", "Vite", "AWS"],
     source: "https://suganthamcreations.com/",
     open: false,
     visit: "https://suganthamcreations.com/",
-    id: 0,
+    id: 1,
   },
   {
     title: "Infraweigh",
@@ -19,7 +31,7 @@ export const projects = [
     source: "https://infraweigh.co/",
     open: false,
     visit: "https://infraweigh.co/",
-    id: 1,
+    id: 2,
   },
   {
     title: "Hostel Outpass Automation",
@@ -30,7 +42,7 @@ export const projects = [
     tags: ["Node", "React", "postgres", "IOT", "openCV"],
     source: "https://staff.nitheshanand.engineer/",
     visit: "https://staff.nitheshanand.engineer/",
-    id: 2,
+    id: 3,
   },
 ];
 
