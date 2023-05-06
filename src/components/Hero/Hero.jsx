@@ -17,10 +17,8 @@ const Hero = (props) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-          Hi, I am nithesh anand, student at Sri Krishna College Of Engineering
-          And Technology, Coimbatore perusing Bachelors in Mechatronics
-          engineering.A life long Learner, addicted to computers from small
-          age.I fell in love with programing past 6 years
+Meet Nithesh Anand, a 20-year-old full-stack web developer with a passion for all things tech. he has an impressive portfolio of websites
+  and web applications, and has handled clients ranging from small businesses to large corporations with ease.
         </SectionText>
         <Button onClick={props.handleClick}>Learn More</Button>
       </LeftSection>
