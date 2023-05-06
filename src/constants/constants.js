@@ -4,7 +4,7 @@ export const projects = [
     description:
       "we build a maintanance management system for suguna feeds and deployed in coimbatore unit With help of nestjs, react with typescript, vite and scss we build this app and was more than the client expectations.",
     image: "/images/10.png",
-    tags: ["React","nest.js","postgres", "Typescript", "Node", "react native", "AWS"],
+    tags: ["React","nest.js","postgres","react native", "AWS"],
     source: "/",
     open: false,
     visit: "/",
