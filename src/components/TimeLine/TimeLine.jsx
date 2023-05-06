@@ -46,8 +46,13 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
-      </SectionText>
+Hi there! My name is Nithesh Anand and I am a passionate and dynamic full-stack web developer with a strong focus on delivering exceptional results for my clients.
+From a young age, I have had a love for technology and a keen interest in web development. Over the years, I have honed my skills in front-end design, back-end development, database management, and more, and have built an impressive portfolio of websites and web applications for clients of all sizes and industries.
+What sets me apart from others in my field is my ability to handle large and complex projects with ease. I have a keen eye for detail and a knack for breaking down big tasks into manageable components, allowing me to tackle even the most challenging projects with confidence and precision.
+I also have a strong understanding of project management principles, ensuring that my clients are always kept in the loop and that their needs and expectations are met throughout the development process.
+Despite my youth, I am already an accomplished web developer with a bright future ahead of me. I am committed to staying up-to-date with the latest trends and technologies in the field and am always seeking out new challenges and opportunities to learn and grow.
+If you are looking for a talented and reliable web developer to help bring your project to life, I would love to hear from you!
+    </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
           {TimeLineData.map((item, index) => (
